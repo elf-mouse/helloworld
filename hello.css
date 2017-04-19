@@ -1,7 +1,7 @@
-.hello::before {
+.main::before {
   content: "Hello,";
 }
 
-.hello::after {
+.main::after {
   content: "World!";
 }

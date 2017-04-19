@@ -1,9 +1,9 @@
 # Hello World
 
 * 1972 - [C](hello.c)
-* 1978 - SQL
+* 1978 - [SQL](hello.sql)
 * 1980 - [C++](hello.cpp)
-* 1986 - Objective-C
+* 1986 - [Objective-C](hello.m)
 * 1987 - [Perl](hello.pl)
 * 1991 - [Python](hello.py)
 * 1991 - [HTML](hello.html)
